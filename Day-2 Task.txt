@@ -1,0 +1,27 @@
+                       DIFFERENCE BETWEEN DOCUMENET AND WINDOW OBJECT
+
+
+The window object is a global object or top level of the javascript
+browser environment, and also available as a global variable 
+
+The document object is property of the window object
+and can be accessed using window.document 
+
+The window object is having a number of methods and properties such as alert(), 
+setInterval(), setTimeout() and that was executed on the browser or tab
+
+The document object is having some methods and properties such as
+document.getelementById(), document.getElementByclassname(), querySelector(),
+querySelectorAll()and the HTML document executed on the browser window
+
+The window object is perform the actions of open and closing the window,
+navigating to URLs, interacting with the history, managing timers and intervals, 
+handling cookies, and more.
+
+The document object is perform to the modify the HTML, add or remove elements, 
+change styles, handle events, and interact with forms.
+
+The window object is arranging the methods like as a DOM(document object model)
+tree structure
+
+The document object is always arranging the tree format of the HTML properties 
